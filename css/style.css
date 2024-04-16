@@ -1,0 +1,240 @@
+:root {
+    --blue:#2196F3;
+    --black: #212121;
+    --light-black: #757575;
+    --white: #FFFFFF;
+    --primary-font: 'Roboto',sans-serif;
+    --secondary-font:'Raleway',sans-serif;
+}
+
+.header{
+}
+
+.body {
+    font-family: 'Roboto',
+        sans-serif;
+    color: black;
+}
+.header__navigation ul{
+    list-style: none;
+}
+
+.header__navigation a{
+    text-decoration: none;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.header__info a{
+    text-decoration: none;
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    font-style: normal;
+}
+
+.main__title{
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    align-items: center;
+}
+
+.main__service {
+
+}
+
+.main__button {
+    font-family: var(--primary-font);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: transparent;
+    color: var(--black);
+    text-transform: uppercase;
+    border: 1px solid var(--blue);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: var(--blue);
+    color: var(--white);
+   
+}
+
+.main__button1-blue1 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    background-color: #2196F3;
+    color: var(--white);
+    cursor: pointer;
+}
+
+.button-blue1:hover {
+    background-color: var(--blue);
+    color: white;
+}
+
+.main__text-1 {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.main__p-1 {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.main__text-2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.main__p-2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.main__text-3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.main__p-3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.main__text-4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.main__p-4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.main__title-2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.main__team {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.main__name-1 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__ocupation-1 {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__name-2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__ocupation-2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__name-3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__ocupation-3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__name-4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main__ocupation-4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.footer__info {
+    text-decoration: none;
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
