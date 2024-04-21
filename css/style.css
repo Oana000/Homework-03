@@ -72,17 +72,211 @@ a {
     font-style: normal;
 }
 
+.main__list ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.main__button {
+    cursor: pointer;
+}
+
+.main__foto {
+    flex-wrap: wrap;
+}
+
+.main__1foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__2foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__3foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__4foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__5foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__6foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__7foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__8foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__9foto {
+    width: 370px;
+    height: 294px;
+}
+
+.main__t1 {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 700;
+    font-size:  18px;
+}
+
+.main__st1 {
+    font-family: 'Roboto',
+            sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st2 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st3 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st4 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t5 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st5 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t6 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st6 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t7 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st7 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t8 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st8 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.main__t9 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main__st9 {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
 .main__title{
     font-family: 'Roboto',
             sans-serif;
     font-weight: 900;
-    font-size: 44px;
+    font-size: 20px;
     line-height: 60px;
     color: white;
     align-items: center;
     background-color: #2F303A;
-    margin-bottom: 120px;
-    height: 100vh;
+    margin-bottom: 60px;
+    height: 50vh;
     text-align: center;
     
 }
@@ -213,9 +407,22 @@ a {
     align-items: center;
 }
 
-.main__img{
+.main__1img{
     width: 370px;
     height: 294px;
+    margin: 7px;
+}
+
+.main__2img {
+    width: 370px;
+    height: 294px;
+    margin: 7px;
+}
+
+.main__3img {
+    width: 370px;
+    height: 294px;
+    margin: 7px;
 }
 
 .main__team {
@@ -225,11 +432,14 @@ a {
     font-size: 36px;
     line-height: 42px;
     text-align: center;
+    background-color: #F5F4FA;
 }
 
 .main__img1 {
     font-family: 'Roboto',
             sans-serif;
+    width: 270px;
+    height: 260px;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -254,6 +464,8 @@ a {
 .main__img2 {
     font-family: 'Roboto',
         sans-serif;
+    width: 270px;
+    height: 260px;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -278,6 +490,8 @@ a {
 .main__img3 {
     font-family: 'Roboto',
         sans-serif;
+    width: 270px;
+    height: 260px;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -302,6 +516,8 @@ a {
 .main__img4 {
     font-family: 'Roboto',
         sans-serif;
+    width: 270px;
+    height: 260px;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -329,6 +545,8 @@ a {
             sans-serif;
     font-weight: 400;
     font-size: 14px;
+    color: white;
+    background-color: #2F303A;
     line-height: 16px;
 }
 
